@@ -1,0 +1,2 @@
+-- Active: 1745941137106@@127.0.0.1@5432@bot
+DROP TABLE users;
